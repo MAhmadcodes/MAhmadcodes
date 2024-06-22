@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAhmadcodes
-- I am new to Github and I don't know about it's full potential yet.
-- 👀 I’m interested in Full Stack Development. 
-- 🌱 I’m currently learning javascript.
+- I develop Mobile and Web Apps. I use React Native and MERN.
+- 👀 I’m a Full Stack Development. 
+- 🌱 I’m achieving my project goals using javascript.
 - 💞️ I’m looking to collaborate on a project that involves website, desktop application and mobile application development. 
 - 📫 You can reach me via email @aghakhan290@gmail.com
 
